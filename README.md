@@ -11,5 +11,5 @@ Run and mirror all the repos with:
 
 ```bash
 # arguments are input file and optional prefix to use when mirroring repo name
-./github-mirror.sh my-replist.txt kood-
+./github-mirror.sh my-repolist.txt kood-
 ```
