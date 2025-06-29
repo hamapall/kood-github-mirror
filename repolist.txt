@@ -1,0 +1,2 @@
+https://01.kood.tech/git/MYUSER/MYREPO.git
+https://01.kood.tech/git/OTHERUSER/OTHERREPO.git
