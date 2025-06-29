@@ -8,7 +8,6 @@ repolist="${1:-repolist.txt}"
 prefix="${2:-}"
 
 echo ">>> Using github user '${github_user}',  source repo list '${repolist}' and prefix '${prefix}'"
-exit
 
 while IFS= read -r url
 do
